@@ -13,7 +13,7 @@ O código adota a convenção de chamadas de procedimento do MIPS, utilizando a 
 
 ## 📂 Relatório Completo Disponível
 
-> 📄 **Nota:** Este projeto possui um **relatório técnico completo em formato PDF** arquivado na pasta do repositório (refira-se à pasta `/relatorio` ou à raiz). O documento contém a fundamentação teórica, a análise detalhada do comportamento da pilha (`$sp`) na 3ª chamada aninhada, o endereçamento da variável de resultado e os prints de validação no MARS.
+> 📄 **Nota:** Este projeto possui um **relatório técnico completo em formato PDF** arquivado no repositório. O documento contém a fundamentação teórica, a análise detalhada do comportamento da pilha (`$sp`) na 3ª chamada aninhada, o endereçamento da variável de resultado e os prints de validação no MARS.
 
 ## 🚀 Como Executar
 
